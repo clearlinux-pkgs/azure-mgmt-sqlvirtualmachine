@@ -4,7 +4,7 @@
 #
 Name     : azure-mgmt-sqlvirtualmachine
 Version  : 0.5.0
-Release  : 6
+Release  : 7
 URL      : https://files.pythonhosted.org/packages/f6/03/efe8f2ea66d51a23d908ab08c6a7b5f55b43c16bafb8d703f69594c635cf/azure-mgmt-sqlvirtualmachine-0.5.0.zip
 Source0  : https://files.pythonhosted.org/packages/f6/03/efe8f2ea66d51a23d908ab08c6a7b5f55b43c16bafb8d703f69594c635cf/azure-mgmt-sqlvirtualmachine-0.5.0.zip
 Summary  : Microsoft Azure SQL Virtual Machine Management Client Library for Python
